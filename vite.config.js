@@ -16,5 +16,5 @@ export default defineConfig({
   css: {
     devSourcemap: true
   },
-  base: 'https://abdulla-807.github.io/cinephile/'
+  // base: 'https://abdulla-807.github.io/cinephile/'
 })
